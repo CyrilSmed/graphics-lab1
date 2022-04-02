@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31825.309
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "graphics-lab1", "graphics-lab1.vcxproj", "{F9B1C732-DDA4-4A54-8A30-F8623F3A7C81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9B1C732-DDA4-4A54-8A30-F8623F3A7C81}.Debug|x64.ActiveCfg = Debug|x64
+		{F9B1C732-DDA4-4A54-8A30-F8623F3A7C81}.Debug|x64.Build.0 = Debug|x64
+		{F9B1C732-DDA4-4A54-8A30-F8623F3A7C81}.Debug|x86.ActiveCfg = Debug|Win32
+		{F9B1C732-DDA4-4A54-8A30-F8623F3A7C81}.Debug|x86.Build.0 = Debug|Win32
+		{F9B1C732-DDA4-4A54-8A30-F8623F3A7C81}.Release|x64.ActiveCfg = Release|x64
+		{F9B1C732-DDA4-4A54-8A30-F8623F3A7C81}.Release|x64.Build.0 = Release|x64
+		{F9B1C732-DDA4-4A54-8A30-F8623F3A7C81}.Release|x86.ActiveCfg = Release|Win32
+		{F9B1C732-DDA4-4A54-8A30-F8623F3A7C81}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84DCBA28-7FA8-4D6D-8392-F659BF4D8B5F}
+	EndGlobalSection
+EndGlobal
